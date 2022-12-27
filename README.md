@@ -1,3 +1,4 @@
-# project_18
+# AUTOMATED INFRASTRUCTURE CREATION WITH TERRAFORM 
 
-**checkout this branch for the documentation** <https://github.com/miraclemoses/project_18/tree/master>
+## MODULAR TERRAFORM SETUP
+![](./architecture)
